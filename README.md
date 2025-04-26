@@ -16,3 +16,18 @@ Functions that you have to implement
 - 5/ ANOVA (with each feature and response)
 - 6/ hypothesis test
 - 7/ interval estimation
+
+## Tasks For each team member:
+- Yahya Mahmoud
+  - Constructor
+  - fit
+  - predict
+- Hamed
+  - plot (3D)
+- Yousef
+  - ANOVA
+- Ahmad Rashad
+  - hypothesis test
+- Yahya Mustafa
+  - interval estimation
+
