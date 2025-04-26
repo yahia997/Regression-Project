@@ -21,11 +21,11 @@ Functions that you have to implement
 - Yahya Mahmoud
   - Constructor
   - fit
+- Yousef
   - predict
+  - ANOVA
 - Hamed
   - plot (3D)
-- Yousef
-  - ANOVA
 - Ahmad Rashad
   - hypothesis test
 - Yahya Mustafa
